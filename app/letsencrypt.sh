@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bashsh
 
 source /app/functions.sh
 
